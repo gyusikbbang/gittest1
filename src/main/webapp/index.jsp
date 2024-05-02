@@ -14,8 +14,13 @@
   <h1>깃 테스트</h1>
   <ol>
     <li>규식</li>
+<<<<<<< HEAD
     <li>test1</li>
 
+=======
+
+   <li>222</li>
+>>>>>>> e7ccc15772a1b0d29502fdd06f260f5197bfe15d
   </ol>
 </div>
 </body>
