@@ -13,7 +13,7 @@
 <div style="margin: 50px;">
   <h1>깃 테스트</h1>
   <ol>
-    <li>규식</li>
+    <li>규식:민트 그린</li>
     <li>test1</li>
 
 
