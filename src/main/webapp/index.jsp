@@ -13,17 +13,8 @@
 <div style="margin: 50px;">
   <h1>깃 테스트</h1>
   <ol>
-    <li>규식:민트 그린</li>
-    <li>인호: 하이볼, 스카이블루</li>
-    <li>test1</li>
-
-    <li>규식:킹크랩</li>
-    <li>규식:킹크랩1</li>
-    <li>인호: 하이볼</li>
-    <li>test2</li>
-    <li>test245</li>
-    
-   <li>222</li>
+    <li>규식: 킹크랩, 연태고량주, 민트 그린</li>
+    <li>인호: 카레, 하이볼, 스카이블루</li>
   </ol>
 </div>
 </body>
