@@ -15,7 +15,7 @@
   <ol>
     <li>규식</li>
 
-    <li>규식2</li>
+
   </ol>
 </div>
 </body>
