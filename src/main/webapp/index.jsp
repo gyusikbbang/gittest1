@@ -13,8 +13,9 @@
 <div style="margin: 50px;">
   <h1>깃 테스트</h1>
   <ol>
-    <li>규식이</li>
+    <li>규식</li>
 
+    <li>규식2</li>
   </ol>
 </div>
 </body>
