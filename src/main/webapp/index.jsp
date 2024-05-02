@@ -20,7 +20,7 @@
     <li>규식:킹크랩</li>
     <li>규식:킹크랩1</li>
     <li>인호: 하이볼</li>
-    <li>test1</li>
+    <li>test2</li>
 
     
    <li>222</li>
